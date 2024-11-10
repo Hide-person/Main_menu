@@ -1,6 +1,6 @@
 [
   {
-    "test": "DLS 24",
+    "text": "DLS 24",
     "link photo": "https://s8.uupload.ir/files/picsart_24-11-10_03-39-32-041_d0wl.jpg",
     "iran server": "https://gitea.com/Hide-person/DKT/raw/branch/main/PGL",
     "english server": "https://gitea.com/Hide-person/DKT/raw/branch/main/EnL",
