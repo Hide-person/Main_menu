@@ -11,7 +11,6 @@
     "championasia server": "https://gitea.com/Hide-person/DKT/raw/branch/main/ChaL",
     "international server": "https://gitea.com/Hide-person/DKT/raw/branch/main/IntL",
     "font": "English",
-    "dls": "24",
     "status": "on"
   }
 ]
