@@ -1,1 +1,16 @@
-dl19
+[
+  {
+    "text": "DLS19",
+    "link photo": "https://s8.uupload.ir/files/picsart_24-11-10_06-00-17-442_kwb5.jpg",
+    "iran server": "https://gitea.com/Hide-person/DKT19/raw/branch/main/PGL",
+    "english server": "https://gitea.com/Hide-person/DKT19/raw/branch/main/EnL",
+    "france server": "https://gitea.com/Hide-person/DKT19/raw/branch/main/FrL",
+    "german server": "https://gitea.com/Hide-person/DKT19/raw/branch/main/GeL",
+    "spain server": "https://gitea.com/Hide-person/DKT19/raw/branch/main/SpL",
+    "italy server": "https://gitea.com/Hide-person/DKT19/raw/branch/main/ItL",
+    "championasia server": "https://gitea.com/Hide-person/DKT19/raw/branch/main/ChaL",
+    "international server": "https://gitea.com/Hide-person/DKT19/raw/branch/main/IntL",
+    "font": "English",
+    "status": "on"
+  }
+]
